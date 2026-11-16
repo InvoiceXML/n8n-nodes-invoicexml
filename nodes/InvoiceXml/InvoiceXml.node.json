@@ -1,0 +1,18 @@
+{
+	"node": "@invoicexml/n8n-nodes-invoicexml",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Finance & Accounting"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/InvoiceXML/n8n-nodes-invoicexml?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/InvoiceXML/n8n-nodes-invoicexml?tab=readme-ov-file"
+			}
+		]
+	}
+}
