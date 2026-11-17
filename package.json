@@ -1,6 +1,6 @@
 {
 	"name": "@invoicexml/n8n-nodes-invoicexml",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node for InvoiceXML: create, validate and convert EU e-invoices (XRechnung, ZUGFeRD, Factur-X, UBL / Peppol BIS, CII).",
 	"license": "MIT",
 	"homepage": "https://www.invoicexml.com",
